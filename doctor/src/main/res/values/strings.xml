@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">doctor</string>
+
+    <string name="notification_title">Report to %1$s</string>
+    <string name="notification_description">Take screenshot</string>
+    <string name="failed_to_take_screen_shot">Failed to take screenshot</string>
+    <string name="successful_reporting">Successful reporting</string>
+    <string name="failed_to_report">Failed to report</string>
+    <string name="just_a_moment">Just a moment</string>
+
+</resources>
