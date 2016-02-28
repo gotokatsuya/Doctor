@@ -1,8 +1,9 @@
 doctor
 
------
+-
 
-Manage application.
+Be debuggable application.
+
 
 ### Feature
 
